@@ -1,3 +1,3 @@
 # bongarit
 
-![Bongarit](logo.png)
+![Bongarit](logos/logo2.png)
